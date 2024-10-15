@@ -10,9 +10,9 @@ Medical Council of Canada Qualifying Examination Part 1	Apr 2022
 ## Research Experience
 ### Research Student – Dr. Monica Farcas, St. Michael’s Hospital	2019 – present
 Developed a novel uroflowmeter. Investigated known uroflowmetric technologies (including commercialized devices and patents), and identified clinician and patient frustrations with current tools. Established a set of essential design requirements, and developed and tested a number of prototypes of the new uroflow device, using technologies including Python, C++, microcontroller programming, and rapid manufacturing techniques.
-	Wrote grant applications, including a successful application for the 2019 AHSC AFP Innovation Grant
-	Clinical study recently received REB approval at St. Michael’s Hospital: An observational and survey study of a novel uroflowmetry device in the outpatient urology clinic
-	Patent application submitted (2023)
+- 	Wrote grant applications, including a successful application for the 2019 AHSC AFP Innovation Grant
+- 	Clinical study recently received REB approval at St. Michael’s Hospital: An observational and survey study of a novel uroflowmetry device in the outpatient urology clinic
+- 	Patent application submitted (2023)
 
 ### Research Student - Dr. Sheena Josselyn, Hospital for Sick Children	2013 – 2018 
 Investigated the molecular processes and neural circuitry underpinning learning and memory in the lateral amygdala of mice, via a combination of behavioral experiments and neuronal manipulation techniques. Setup and troubleshot new technologies in the lab, including fibre photometry. 
@@ -23,12 +23,12 @@ Designed and prototyped novel designs to improve the repacking procedure of the 
 ## Entrepreneurship and Leadership
 ### Clerk Companion iOS App	2020 – 2022
 In partnership with the U of T Office of Health Professions Student Affairs, led a team of 3 classmates to adapt the U of T Clerkship Handbook to a mobile format, and integrated OHPSA messaging on Learner Mistreatment and tools for reporting incidents. Learned Swift app development, and released an iOS app to the U of T MD class with positive feedback. Project was presented at U of T January 2021 President’s Lunch.
-	Funding: Ontario Medical Student Association Innovator Grant (2021) – $1200
+- 	Funding: Ontario Medical Student Association Innovator Grant (2021) – $1200
 
 ### Neuroscience Technology and Entrepreneurship Conference	2014 – 2015
 Founded student initiative to introduce life science students to technology entrepreneurship. 
 Led a team of 6 to develop a 12-video series highlighting life science entrepreneurship, culminating in a conference at the Hospital for Sick Children. Raised over $16,500 in funding and in-kind contributions from sponsors, and invited 11 speakers and 12 startups to present/exhibit at the event. 
-	Funding: 
+- 	Funding: 
 •	Ontario Brain Institute Event Fund (2015) – $3550
 •	New College Initiative Fund (2015) – $1300
 •	Student Life Initiative Fund (2014) – $5000 
@@ -36,7 +36,7 @@ Led a team of 6 to develop a 12-video series highlighting life science entrepren
 
 ### Modly	2013 – 2015
 Co-founder of photography startup. Designed and prototyped a programmable LED lighting device for complex light painting photography. Conducted appropriate market/user research. Investigated existing techniques and commercially available tools for long-exposure photography
-	Funding: Ontario Centers of Excellence SmartStart Seed Fund (2013) – $34270
+- 	Funding: Ontario Centers of Excellence SmartStart Seed Fund (2013) – $34270
 
 ## Engineering Projects
 ### GuidelinesGPT	2024 – present
@@ -47,11 +47,11 @@ An automated tool to dramatically speed up Title/Abstract screening during syste
 
 ### MouseHouse & MouseTracker – Dr. Sheena Josselyn, Hospital for Sick Children	2014 – 2018
 Developed a custom suite of hardware and software tools for mice behavior research. These included: tools for delivery of stimuli, control of optogenetic and fibre photometry devices; camera tools with computer vision for real-time mouse tracking, with appropriate delivery of stimuli based on mice position and velocity; and data recording tools with automatic data processing into usable graphs, heatmaps, etc.
-	As of 2022, members of Dr. Josselyn's lab continue to use MouseTracker for ongoing experiments.
+- 	As of 2022, members of Dr. Josselyn's lab continue to use MouseTracker for ongoing experiments.
 
 ### Adjustable Circular Cutter – Dr. Jason Bazylak, University of Toronto	2011 – 2012
 Learned about frustrations patients and caregivers had related to ostomy care. Developed a radius-adjustable, circular cutting tool that would form perfect, smooth openings on ostomy pouch baseplates, in order to alleviate issues related to poorly cut openings that can lead to stool/gas leakage, and skin/stoma irritation.
-	Work featured in Winter 2012 edition of the Ostomy Canada magazine. 
+- 	Work featured in Winter 2012 edition of the Ostomy Canada magazine. 
 
 ## Intellectual Property
 Li, T., Carrillo, B., Farcas, M. Advanced Uroflowmetry Device. United States of America. Patent No. 63/409,918. 2022/09/30. (Patent Pending)
@@ -196,23 +196,23 @@ Maurice Cody Memorial Scholarship ($1600)	2012
 University of Toronto Scholar ($7500)	2012
 Technical Proficiencies
 Programming Languages
-	Python 2, 3
-	C++
-	Swift/SwiftUI (iOS)
+- 	Python 2, 3
+- 	C++
+- 	Swift/SwiftUI (iOS)
 AI Frameworks
-	LangChain
-	LangGraph
-	LlamaIndex
+- 	LangChain
+- 	LangGraph
+- 	LlamaIndex
 User Interface Frameworks
-	FastAPI
-	Streamlit
-	QtGUI
-	Tkinter
+- 	FastAPI
+- 	Streamlit
+- 	QtGUI
+- 	Tkinter
 Computer Vision Frameworks
-	OpenCV
+- 	OpenCV
 Rapid Prototyping Tools
-	Microcontroller Programming (Teensy; Arduino)
-	3D Modelling (Solidworks, Fusion 360, Google Sketchup)
+- 	Microcontroller Programming (Teensy; Arduino)
+- 	3D Modelling (Solidworks, Fusion 360, Google Sketchup)
 
 ## Professional Memberships
 Canadian Urological Association	2022 – present
