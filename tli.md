@@ -27,7 +27,7 @@ Investigated the molecular processes and neural circuitry underpinning learning 
 
 2012 – 2013
 
-Designed and prototyped novel designs to improve the repacking procedure of the SlingSerter™ patient lifting system; designed portable bathtub faucet attachments to improve caregiver ergonomics during assisted bathing.
+Designed and prototyped novel designs to improve the repacking procedure of the SlingSerter patient lifting system; designed portable bathtub faucet attachments to improve caregiver ergonomics during assisted bathing.
 
 ## Entrepreneurship and Leadership
 **Clerk Companion iOS App**
