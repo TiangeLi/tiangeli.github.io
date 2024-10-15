@@ -9,28 +9,38 @@
 
 ## Research Experience
 **Research Student – Dr. Monica Farcas, St. Michael’s Hospital**	
+
 2019 – present
+
 Developed a novel uroflowmeter. Investigated known uroflowmetric technologies (including commercialized devices and patents), and identified clinician and patient frustrations with current tools. Established a set of essential design requirements, and developed and tested a number of prototypes of the new uroflow device, using technologies including Python, C++, microcontroller programming, and rapid manufacturing techniques.
 - 	Wrote grant applications, including a successful application for the 2019 AHSC AFP Innovation Grant
 - 	Clinical study recently received REB approval at St. Michael’s Hospital: An observational and survey study of a novel uroflowmetry device in the outpatient urology clinic
 - 	Patent application submitted (2023)
 
 **Research Student - Dr. Sheena Josselyn, Hospital for Sick Children**
+
 2013 – 2018 
+
 Investigated the molecular processes and neural circuitry underpinning learning and memory in the lateral amygdala of mice, via a combination of behavioral experiments and neuronal manipulation techniques. Setup and troubleshot new technologies in the lab, including fibre photometry. 
 
 **Research Student – Dr. Emily King, Toronto Rehabilitation Hospital (iDAPT)**
+
 2012 – 2013
+
 Designed and prototyped novel designs to improve the repacking procedure of the SlingSerter™ patient lifting system; designed portable bathtub faucet attachments to improve caregiver ergonomics during assisted bathing.
 
 ## Entrepreneurship and Leadership
 **Clerk Companion iOS App**
+
 2020 – 2022
+
 In partnership with the U of T Office of Health Professions Student Affairs, led a team of 3 classmates to adapt the U of T Clerkship Handbook to a mobile format, and integrated OHPSA messaging on Learner Mistreatment and tools for reporting incidents. Learned Swift app development, and released an iOS app to the U of T MD class with positive feedback. Project was presented at U of T January 2021 President’s Lunch.
 - 	Funding: Ontario Medical Student Association Innovator Grant (2021) – $1200
 
 **Neuroscience Technology and Entrepreneurship Conference**	
+
 2014 – 2015
+
 Founded student initiative to introduce life science students to technology entrepreneurship. 
 Led a team of 6 to develop a 12-video series highlighting life science entrepreneurship, culminating in a conference at the Hospital for Sick Children. Raised over $16,500 in funding and in-kind contributions from sponsors, and invited 11 speakers and 12 startups to present/exhibit at the event. 
 - 	Funding: 
@@ -40,26 +50,36 @@ Led a team of 6 to develop a 12-video series highlighting life science entrepren
 •	Arts & Science Dean’s Student Initiative Fund (2014) – $800
 
 **Modly**
+
 2013 – 2015
+
 Co-founder of photography startup. Designed and prototyped a programmable LED lighting device for complex light painting photography. Conducted appropriate market/user research. Investigated existing techniques and commercially available tools for long-exposure photography
 - 	Funding: Ontario Centers of Excellence SmartStart Seed Fund (2013) – $34270
 
 ## Other Projects
 **GuidelinesGPT**
+
 2024 – present
+
 A custom implementation of LLM / transformer based AI to provide guideline approved urology information / recommendations to natural language queries. Built using Neo4j knowledge graphs, LangChain/LangGraph API, FastAPI and Streamlit to service the frontend. 
 
 **SR Review**
+
 2023-2024
+
 An automated tool to dramatically speed up Title/Abstract screening during systematic reviews
 
 **MouseHouse & MouseTracker – Dr. Sheena Josselyn, Hospital for Sick Children**
+
 2014 – 2018
+
 Developed a custom suite of hardware and software tools for mice behavior research. These included: tools for delivery of stimuli, control of optogenetic and fibre photometry devices; camera tools with computer vision for real-time mouse tracking, with appropriate delivery of stimuli based on mice position and velocity; and data recording tools with automatic data processing into usable graphs, heatmaps, etc.
 - 	As of 2022, members of Dr. Josselyn's lab continue to use MouseTracker for ongoing experiments.
 
 **Adjustable Circular Cutter – Dr. Jason Bazylak, University of Toronto**	
+
 2011 – 2012
+
 Learned about frustrations patients and caregivers had related to ostomy care. Developed a radius-adjustable, circular cutting tool that would form perfect, smooth openings on ostomy pouch baseplates, in order to alleviate issues related to poorly cut openings that can lead to stool/gas leakage, and skin/stoma irritation.
 - 	Work featured in Winter 2012 edition of the Ostomy Canada magazine. 
 
@@ -99,39 +119,57 @@ Li, T., Martyts, A. Modular Photography Lighting System. UofT Invention Disclosu
 
 ## Volunteer and Extracurricular Experience
 **Nephrology Chapter Editor, Toronto Notes**
+
 2021 – 2022
+
 Worked in a team of two to update the contents of the Nephrology Chapter of Toronto Notes 2022. Ensured that information was accurate and in-line with up to date literature and treatment guidelines. 
 
 **Online Content Manager, Toronto Notes**
+
 2020 – 2021
+
 Using web technologies including WordPress, worked in a team of four to update and maintain the Toronto Notes Website, including maintaining up to date clinical content in the Academic Resources tab.
 
 **Partnership & Fundraising Co-Lead, 3D PPE GTHA**
+
 2020
+
 During the initial months of the COVID-19 pandemic, we formed an initiative to design, print, and ultimately deliver >25,000 faceshields to various healthcare facilities in the Greater Toronto-Hamilton Area. I was part of a core team that focused on acquiring financial and in-kind support from various sponsors. 
 
-**Students as Teachers Program, University of Toronto **
+**Students as Teachers Program, University of Toronto**
+
 2019 – 2020
+
 Through lectures and practical exercises, learned didactic theory in preparation for role in Med Ed in residency
 
 **Mistreatment Website Student Contributor, University of Toronto**
+
 2020
+
 Provided feedback on the Faculty of Medicine Student Mistreatment Website redesign. Working with other students, advocated for accessible methods to report learner mistreatment. 
 
 **MD Program Admissions Volunteer and File Reviewer, University of Toronto**
+
 2019 – 2021
+
 Volunteered for interview weekends; reviewed applications to help in the selection of future MD students 
 
 **Essential Surgical Skills Tutor, University of Toronto**
+
 2019 – 2020
+
 Practiced basic surgical skills, then in turn helped tutor medical students at UofT and during the 2019 Ontario Medical Student Weekend retreat
 
 **Anatomy Tutor, University of Toronto**
+
 2018 – 2019
+
 Helped tutor several classmates over the course of our pre-clerkship anatomy curriculum
 
 **Volunteer, Healing Beyond the Body Program, Princess Margaret Hospital**
+
 2017 – 2018
+
 Held conversations with patients while they waited for their clinic or treatment appointments; provided a listening ear, empathy, and emotional support where appropriate
 
 ## Other Activities
