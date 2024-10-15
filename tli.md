@@ -1,7 +1,7 @@
 ## Education
-Postgraduate Medical Education, Urology, University of Toronto	2022 - present
-Doctor of Medicine Program, University of Toronto	2018  – June 2022 
-Honors Bachelor of Science in Neuroscience, University of Toronto	2012 – June 2017
+- Postgraduate Medical Education, Urology, University of Toronto	2022 - present
+- Doctor of Medicine Program, University of Toronto	2018  – June 2022 
+- Honors Bachelor of Science in Neuroscience, University of Toronto	2012 – June 2017
 
 ## Examinations
 Royal College Surgical Foundations Examination	Sept 2023
